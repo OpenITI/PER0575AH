@@ -4,7 +4,7 @@
 10#AUTH#LAQAB##AR: Ẓahīr al-dīn
 10#AUTH#NASAB##AR: b. Zayd b. Muḥammad b. al-Ḥusayn b. Funduq
 10#AUTH#NISBA##AR: al-Bayhaqī
-10#AUTH#SHUHRA#AR: Ibn Funduq/Fanduq (the former is recorded in EIr and the latter is recorded in the editor's introduction to Tarikh Bayhaq)
+10#AUTH#SHUHRA#AR: Ibn Funduq
 20#AUTH#BORN#####: Khurasan_RE
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
@@ -15,4 +15,9 @@
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 70#AUTH#EXTID####: wikidata@Q4025793
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: EIr: "BAYHAQĪ, ẒAHĪR-AL-DĪN ABU’L-ḤASAN ʿALĪ B. ZAYD (ca. 490-565/1097-1169), also known as Ebn Fondoq, an Iranian polymath of Arab descent, author of the Tārīḵ-eBayhaq.": https://iranicaonline.org/articles/bayhaqi-zahir-al-din-abul-hasan-ali-b
+90#AUTH#COMMENT##: EIr: "BAYHAQĪ, ẒAHĪR-AL-DĪN ABU’L-ḤASAN
+    ʿALĪ B. ZAYD (ca. 490-565/1097-1169), also known as Ebn Fondoq,
+    an Iranian polymath of Arab descent, author of the Tārīḵ-eBayhaq.":
+    https://iranicaonline.org/articles/bayhaqi-zahir-al-din-abul-hasan-ali-b
+    His name is recorded as Ibn Fanduq in the editor's introduction
+    to Tarīkh Bayhaq)
